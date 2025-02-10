@@ -237,5 +237,3 @@ git push origin --delete <branch-name>
 This document covers common Git errors, solutions, workflows for transferring data between branches (e.g., `master` to `main`), and instructions for deleting branches. It also includes general Git commands and best practices for managing repositories.
 
 ---
-
-You can save this as a `.txt`, `.docx`, or `.md` file, depending on your preference. Let me know if you need further customization or additional details!
