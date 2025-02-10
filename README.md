@@ -1,4 +1,4 @@
-# **Git Troubleshooting and Workflow Documentation**
+# **Git Troubleshooting and Workflow Documentation for vs-code remote**
 
 ## **1. Common Git Errors and Solutions**
 
