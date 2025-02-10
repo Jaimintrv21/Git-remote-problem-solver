@@ -1,5 +1,3 @@
----
-
 # **Git Troubleshooting and Workflow Documentation**
 
 ## **1. Common Git Errors and Solutions**
@@ -19,8 +17,6 @@
      ```bash
      git remote set-url origin <new-repository-url>
      ```
-
----
 
 ### **Error: `fatal: refusing to merge unrelated histories`**
 - **Cause:** Git detects that the two branches have unrelated commit histories.
