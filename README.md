@@ -1,5 +1,3 @@
-Sure! Below is the updated documentation, including instructions on how to delete branches in Git. I've added a new section specifically for deleting branches, both locally and remotely.
-
 ---
 
 # **Git Troubleshooting and Workflow Documentation**
